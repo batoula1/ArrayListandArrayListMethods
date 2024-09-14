@@ -1,0 +1,2 @@
+public class CreateArrayListFromCollectionExample2 {
+}
